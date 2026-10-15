@@ -1,0 +1,15 @@
+{
+  "name": "cited-io",
+  "description": "AI SEO and GEO skills from Cited (cited.io)",
+  "owner": {
+    "name": "Cited",
+    "url": "https://cited.io"
+  },
+  "plugins": [
+    {
+      "name": "ai-seo-geo",
+      "source": "./",
+      "description": "Audit a website against the AI SEO and GEO checklist: AI crawlers, robots.txt, sitemap, llms.txt, structured data and answer-first content."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ai-seo-geo",
+  "displayName": "AI SEO and GEO audit",
+  "version": "1.0.0",
+  "description": "Audit any website for AI search visibility (AI SEO, generative engine optimization, answer engine optimization): AI crawler access in robots.txt, sitemap, llms.txt, Organization schema and sameAs, snippet controls, server-rendered content and answer-first pages.",
+  "author": {
+    "name": "Cited",
+    "url": "https://cited.io"
+  },
+  "homepage": "https://github.com/Cited-io/ai-seo-geo-checklist",
+  "repository": "https://github.com/Cited-io/ai-seo-geo-checklist",
+  "license": "MIT",
+  "keywords": ["ai-seo", "geo", "generative-engine-optimization", "aeo", "answer-engine-optimization", "seo-audit", "ai-search", "llms-txt", "structured-data", "robots-txt"]
+}
